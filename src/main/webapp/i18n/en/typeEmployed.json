@@ -1,0 +1,10 @@
+{
+  "vcrmApp": {
+    "TypeEmployed": {
+      "null": "",
+      "MARKETER": "MARKETER",
+      "SALARY": "SALARY",
+      "CONSULTANT": "CONSULTANT"
+    }
+  }
+}
